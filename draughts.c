@@ -1,5 +1,5 @@
 /* 
-    Draughts Game for La-Fortuna Board provided by University of Southampton
+    Draughts Game for La-Fortuna Board provided by the University of Southampton
 
     Project for COMP2215 2018-2019 designed by Marcin Wiech
 
