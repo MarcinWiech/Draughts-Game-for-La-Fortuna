@@ -1,7 +1,7 @@
-_build/lcd.o: lcd/lcd.c lcd/font.h lcd/ili934x.h lcd/lcd.h
+_build/lcd.o: libs/lcd/lcd.c libs/lcd/font.h libs/lcd/ili934x.h libs/lcd/lcd.h
 
-lcd/font.h:
+libs/lcd/font.h:
 
-lcd/ili934x.h:
+libs/lcd/ili934x.h:
 
-lcd/lcd.h:
+libs/lcd/lcd.h:

@@ -1,5 +1,5 @@
-_build/ruota.o: ruota/ruota.c rios/rios.h ruota/ruota.h
+_build/ruota.o: libs/ruota/ruota.c libs/rios/rios.h libs/ruota/ruota.h
 
-rios/rios.h:
+libs/rios/rios.h:
 
-ruota/ruota.h:
+libs/ruota/ruota.h:

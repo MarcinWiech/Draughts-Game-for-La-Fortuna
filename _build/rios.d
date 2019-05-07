@@ -1,3 +1,3 @@
-_build/rios.o: rios/rios.c rios/rios.h
+_build/rios.o: libs/rios/rios.c libs/rios/rios.h
 
-rios/rios.h:
+libs/rios/rios.h:
