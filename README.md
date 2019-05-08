@@ -1,4 +1,4 @@
-# Play draughts just like Achilles and Ajax
+# Draughts Game
 
 The project is made for **COMP2215** module for **University of Southampton** 2018-2019.
 
