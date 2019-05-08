@@ -21,4 +21,4 @@ The draughts game offers incredible gameplay for two keen-minded strategy-orient
 
 To launch the game simply run makefile, however, you will need avr-gcc/avr-g++, gnu make and dfu-programmer installed.
 
-Possible improvements include a nicely themed intro and simple algorithm so that the player can compete with the computer.
+Possible improvements include a nicely themed intro and simple algorithm so that a player can compete with the computer.
