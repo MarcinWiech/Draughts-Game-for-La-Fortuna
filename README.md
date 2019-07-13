@@ -1,6 +1,6 @@
 # Draughts Game
 
-The project is made for **COMP2215** module for **University of Southampton** 2018-2019.
+This project is made for **COMP2215** module for **University of Southampton** 2018-2019.
 
 
 Immerse in the dramatic gameplay just like Achilles and Ajax did in the 12th century BC.
